@@ -1,3 +1,20 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "cliente dev",
+      "empresa": "empresa dev",
+      "email": "clientedev@empresadev.com",
+      "telefono": "123456",
+      "notas": "dev",
+      "id": 2
+    },
+    {
+      "nombre": "dev",
+      "empresa": "dev",
+      "email": "dev@dev.com",
+      "telefono": "123456",
+      "notas": "dev",
+      "id": 3
+    }
+  ]
 }
